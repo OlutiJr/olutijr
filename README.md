@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**OlutiJr/olutijr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 About Me<br>🔭 I’m currently working on: Building my first AI startup focused on practical automation.<br><br>👯 I’m looking to collaborate on: Projects involving machine learning, LLM integration, or entrepreneurship with fellow students and builders.<br><br>🤝 I’m looking for help with: Scaling my startup's reach and finding mentors in the Atlanta tech scene.<br><br>🌱 I’m currently learning: How to effectively integrate AI solutions into local small businesses to improve their workflows.<br><br>💬 Ask me about: Being a young founder, my experience at GSU, or the future of AI in local economies.<br><br>⚡ Fun fact: I'm balancing a university degree and a startup before I'm even old enough to vote!
 
